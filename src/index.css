@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;box-sizing: border-box;
+    background-color: antiquewhite;
+}
+.High1{
+    border: 1px solid grey;
+    margin: 20px;
+}
+.High1 h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.hover{
+    border: 1px solid grey;
+    margin: 20px;
+}
+.hover h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+.main2{
+    border: 1px solid grey;
+    margin: 20px;
+}
+.main2 h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+button{
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+table{
+    margin-top: 10px;
+}
+
